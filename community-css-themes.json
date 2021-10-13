@@ -596,5 +596,12 @@
         "repo": "gracejoseph1236/obsidian-emerald",
         "screenshot": "example.png",
         "modes": ["dark"]
+    },
+    {
+        "name": "Like a Tumbler"
+        "author": "RowanKernan",
+        "repo": "RowanKernan/ObsidianTumblrTheme"
+        "screenshot": "screenshot.png",
+        "modes": ["dark"]
     }
 ]
